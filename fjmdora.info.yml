@@ -1,0 +1,8 @@
+name: 'FJM Customizations'
+description: "FJM Customizations"
+type: module
+package: FJM
+core: 8.x
+default_content:
+  block_content:
+    - b18f42f0-8fdc-4e5c-bce9-9304d309e225

@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: b18f42f0-8fdc-4e5c-bce9-9304d309e225
+  bundle: basic
+  default_langcode: en
+default:
+  revision_user:
+    -
+      target_id: 1
+  revision_log:
+    -
+      value: 'Created new Basic block'
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'FJM Custom block'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<p>&lt;h1&gt;FJM&lt;/h1&gt;</p>\r\n"
+      format: full_html
+      summary: ''
